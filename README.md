@@ -12,7 +12,7 @@ apt-get install git python3 python3-pip python python-pip
 ## • Run commands one by one
 
 ``` 
-git clone https://github.com/bhaskarvilles/facebrute
+git clone https://github.com/bhaskarvilles/facebruter
 
 cd facebrute
 
