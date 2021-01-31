@@ -50,3 +50,10 @@ Telegram : https://t.me/bhaskarvilles
 Twitter : https://twitter.com/bhaskarvilles
 
 Mail : bhaskarvilles@outlook.in
+
+# Donations 
+
+<img src="https://i.imgur.com/3GN8vep.jpg?1"/>
+
+
+# Bitcoin Wallet adress :           ```195DLtMLCU78zedUDSkZQgUMzaEyffPwsN```
